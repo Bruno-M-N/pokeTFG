@@ -1,0 +1,103 @@
+This file contains the default Trading Figure Game Pokémon that appears when creating a Pokémon.
+Notes: Empty fields should be filled with '-' character. It's also important to use numbers to differentiate attacks with the same name as this indicates the next move in the case where the Active Pokémon is Confused.
+You can change the default Pokémon here as convenience orin the program interface.
+
+Example:
+Pokémon Number: 6
+Name: Lugia
+Move Points: 1
+Type: Psychic
+Name Pokémon Power: -
+Text Pokémon Power: -
+Number of Moves: 6
+
+Move1 Name: Aeroblast 1
+Move1 Color: White
+Move1 Stars: -
+Move1 Text Power: -
+Move1 Move Power: 90
+Move1 Move Min: 0
+Move1 Move Max: 250
+
+Move2 Name: Miss 1
+Move2 Color: Red
+Move2 Stars: -
+Move2 Text Power: -
+Move2 Move Power: -
+Move2 Move Min: 251
+Move2 Move Max: 333
+
+Move3 Name: Dodge
+Move3 Color: Blue
+Move3 Stars: -
+Move3 Text Power: -
+Move3 Move Power: -
+Move3 Move Min: 334
+Move3 Move Max: 416
+
+Move4 Name: Miss 2
+Move4 Color: Red
+Move4 Stars: -
+Move4 Text Power: -
+Move4 Move Power: -
+Move4 Move Min: 417
+Move4 Move Max: 500
+
+Move5 Name: Aeroblast 2
+Move5 Color: White
+Move5 Stars: -
+Move5 Text Power: -
+Move5 Move Power: 90
+Move5 Move Min: 501
+Move5 Move Max: 750
+
+Move6 Name: Hurricane
+Move6 Color: Purple
+Move6 Stars: 3
+Move6 Text Power: The Defending Pokémon returns to the Bench and has Wait.
+Move6 Move Power: -
+Move6 Move Min: 751
+Move6 Move Max: 1000
+
+The default Trading Figure Game Pokémon is the one bellow the line.
+
+_________________
+Pokémon Number: 11
+Name: Meowth
+Move Points: 2
+Type: Colorless
+Name Pokémon Power: -
+Text Pokémon Power: -
+Number of Moves: 4
+
+Move1 Name: Fake Out
+Move1 Color: Purple
+Move1 Stars: 1
+Move1 Text Power: Switch Meowth and the Defending Pokémon.
+Move1 Move Power: -
+Move1 Move Min: 0
+Move1 Move Max: 333
+
+Move2 Name: Miss
+Move2 Color: Red
+Move2 Stars: -
+Move2 Text Power: -
+Move2 Move Power: -
+Move2 Move Min: 334
+Move2 Move Max: 416
+
+Move3 Name: Dodge
+Move3 Color: Blue
+Move3 Stars: -
+Move3 Text Power: -
+Move3 Move Power: -
+Move3 Move Min: 417
+Move3 Move Max: 625
+
+Move4 Name: Scratch
+Move4 Color: White
+Move4 Stars: -
+Move4 Text Power: -
+Move4 Move Power: 30
+Move4 Move Min: 626
+Move4 Move Max: 1000

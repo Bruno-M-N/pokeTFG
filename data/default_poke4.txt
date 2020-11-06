@@ -1,0 +1,104 @@
+This file contains the default Trading Figure Game Pokémon that appears when creating a Pokémon.
+Notes: Empty fields should be filled with '-' character. It's also important to use numbers to differentiate attacks with the same name as this indicates the next move in the case where the Active Pokémon is Confused.
+You can change the default Pokémon here as convenience orin the program interface.
+
+Example:
+Pokémon Number: 6
+Name: Lugia
+Move Points: 1
+Type: Psychic
+Name Pokémon Power: -
+Text Pokémon Power: -
+Number of Moves: 6
+
+Move1 Name: Aeroblast 1
+Move1 Color: White
+Move1 Stars: -
+Move1 Text Power: -
+Move1 Move Power: 90
+Move1 Move Min: 0
+Move1 Move Max: 250
+
+Move2 Name: Miss 1
+Move2 Color: Red
+Move2 Stars: -
+Move2 Text Power: -
+Move2 Move Power: -
+Move2 Move Min: 251
+Move2 Move Max: 333
+
+Move3 Name: Dodge
+Move3 Color: Blue
+Move3 Stars: -
+Move3 Text Power: -
+Move3 Move Power: -
+Move3 Move Min: 334
+Move3 Move Max: 416
+
+Move4 Name: Miss 2
+Move4 Color: Red
+Move4 Stars: -
+Move4 Text Power: -
+Move4 Move Power: -
+Move4 Move Min: 417
+Move4 Move Max: 500
+
+Move5 Name: Aeroblast 2
+Move5 Color: White
+Move5 Stars: -
+Move5 Text Power: -
+Move5 Move Power: 90
+Move5 Move Min: 501
+Move5 Move Max: 750
+
+Move6 Name: Hurricane
+Move6 Color: Purple
+Move6 Stars: 3
+Move6 Text Power: The Defending Pokémon returns to the Bench and has Wait.
+Move6 Move Power: -
+Move6 Move Min: 751
+Move6 Move Max: 1000
+
+The default Trading Figure Game Pokémon is the one bellow the line.
+
+_________________
+Pokémon Number: 4
+Name: Ho-Oh 
+Move Points: 2
+Type: Fire
+Name Pokémon Power: -
+Text Pokémon Power: -
+Number of Moves: 4
+
+Move 1 Name: Gust
+Move 1 Color: White
+Move 1 Stars:  
+Move 1 Text Power: -
+Move 1 Move Power: 50
+Move 1 Move Min: 0
+Move 1 Move Max: 292
+
+Move 2 Name: Miss
+Move 2 Color: Red
+Move 2 Stars:  
+Move 2 Text Power: -
+Move 2 Move Power: -
+Move 2 Move Min: 293
+Move 2 Move Max: 458
+
+Move 3 Name: Tornado Spin
+Move 3 Color: Purple
+Move 3 Stars: 2 
+Move 3 Text Power: Ho-Oh and all surrounding Pokémon return to the bench and have Wait(except Ho-Oh).
+Move 3 Move Power: -
+Move 3 Move Min: 459
+Move 3 Move Max: 750
+
+Move 4 Name: Fire Blast
+Move 4 Color: White
+Move 4 Stars:  
+Move 4 Text Power: -
+Move 4 Move Power: 120
+Move 4 Move Min: 751
+Move 4 Move Max: 1000
+
