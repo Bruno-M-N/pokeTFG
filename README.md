@@ -14,7 +14,7 @@ Around 2015, I started using the HighGUI of OPENCV, a library I had used in our 
 
 I had the opportunity in 2020 to attend the course Gui Programming in C++ (using Qt/QML) at the École Centrale de Lyon (Écully, France). And I decided to revisit and expand this project, now in Qt/QML.
 
-For now, this consisted in creating some QML components for the creation of the playing field  [From Bulbapedia, the community-driven Pokémon encyclopedia](https://www.pokebip.com/images/2007/286.jpg. "Pokémon Trading Figure Game 3 x3 field"))
+For now, this consisted in creating some QML components for the creation of the playing [field](https://www.pokebip.com/images/2007/286.jpg. "Pokémon Trading Figure Game 3 x 3 field")).
 
 
 In the future, the goal would be to allow the creation of custom fields (reusing these components), as well as using the Qt network communication capabilities to allow remote matches.
